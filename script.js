@@ -2,7 +2,7 @@ function toCase(text) {
   // write your code here
 
 	if(text === ""){
-		return -
+		return "-"
 	}
 
 	const lowercase = text.toLowerCase();
