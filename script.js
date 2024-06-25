@@ -10,8 +10,7 @@ function toCase(text) {
 
 	return `${lowercase}-${uppercase}`
 }
-const text = prompt("Enter text:");
-alert(toCase(text));
+
 
 // DO not change the code below
 
